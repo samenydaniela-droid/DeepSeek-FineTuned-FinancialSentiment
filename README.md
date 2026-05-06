@@ -1,4 +1,5 @@
 # DeepSeek Fine-Tuned for Financial Sentiment Analysis
+GitHub's notebook preview may show "Invalid Notebook" due to widget metadata. Download the file or open it directly in Google Colab to view.
 
 LoRA fine-tuning of **DeepSeek-R1-Distill-Qwen-1.5B** on the **Financial PhraseBank** dataset, with 4-bit QLoRA, on a single Colab T4 GPU.
 
